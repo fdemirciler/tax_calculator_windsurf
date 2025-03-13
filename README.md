@@ -1,5 +1,7 @@
 # Tax Calculator
 
+> **Disclaimer**: This application was created as a practice project to improve my JavaScript, HTML, and CSS skills. The tax brackets and rates used in this calculator are fictional and should not be used for actual tax calculations. They serve only as sample data to demonstrate the calculation logic and user interface design.
+
 A simple and efficient tax calculator built with vanilla JavaScript, HTML, and CSS.
 
 ## Features
